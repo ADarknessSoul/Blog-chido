@@ -59,3 +59,14 @@ body {
     max-width: 11em;
     height: auto;
 }
+.footer {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    width: 30%;
+    margin: 0 auto;
+    background-color: gray;
+    padding: 0.1em 1em;
+    border: 2px solid #000;
+}
