@@ -5,3 +5,5 @@
 
 ## Referencia a imagenes externas:
 - https://imgur.com/a/VPyv98o
+
+*Creado por el increíble Gerardo Vasquez 
