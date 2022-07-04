@@ -7,3 +7,5 @@
 - https://imgur.com/a/VPyv98o
 
 *Creado por el increíble Gerardo Vasquez 
+*Incluye ejemplo en Windows y ya
+*Pero espere, hay más!
